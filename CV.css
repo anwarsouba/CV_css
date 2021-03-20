@@ -1,0 +1,24 @@
+body{
+    margin:15%;
+    margin-left:20% ;
+    margin-right:20% ;
+}
+body{
+  color: #D1C9C7;
+  padding: 70px;
+  border: 5px solid #ffffff;
+  background-color: #D1C9C7;
+}
+h1 {
+    color: #0400ff;
+  }
+h2 {
+    color: cornflowerblue;
+}
+li {
+    color: darkblue;
+}
+p {
+    color: darkblue;
+    
+}
